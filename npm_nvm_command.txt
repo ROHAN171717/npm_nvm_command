@@ -14,6 +14,8 @@
 
 --> npm install <module_name> -g / npm i <module_name> --global
 
+--> npm install <package_name> -D / npm install <package_name> --save-dev
+
 --> npm update
 
 --> npm update <module_name>
