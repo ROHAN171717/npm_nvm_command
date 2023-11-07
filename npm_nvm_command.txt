@@ -1,0 +1,39 @@
+------- NPM Command -------
+
+--> npm -v
+
+--> npm init
+
+--> npm init --yes
+
+--> npm install
+
+--> npm install <module_name> / npm i <module_name>
+
+--> npm install <module_name>@<version> / npm i <module_name>@<version>
+
+--> npm install <module_name> -g / npm i <module_name> --global
+
+--> npm update
+
+--> npm update <module_name>
+
+--> npm run <task_name>
+
+
+------- NVM Command -------
+
+--> nvm -v
+
+--> nvm install node - install latest version of node
+
+--> nvm install vX.Y.Z - install X.Y.Z version of node
+
+--> nvm uninstall vX.Y.Z - install X.Y.Z version of node
+
+--> nvm use node / nvm use 14
+
+--> nvm current - shows current version of node
+
+
+
